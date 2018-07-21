@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "345793707739",
+    "firebase_url": "https://coding-clicker-f982b.firebaseio.com",
+    "project_id": "coding-clicker-f982b",
+    "storage_bucket": "coding-clicker-f982b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345793707739:android:7ea588ceb4e65d25",
+        "android_client_info": {
+          "package_name": "com.codeforchangeusa.codeclickerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345793707739-ukj6lu2lo461c20i13nav18l0b3460pc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codeforchangeusa.codeclickerapp",
+            "certificate_hash": "21f6ef517e7d9dbf37e5eefa534bb7b7eb0fc73d"
+          }
+        },
+        {
+          "client_id": "345793707739-gct3d9k9fsqq0k6dl3s6sajgip8tbba0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeIgKbffRFhD-lDrfkOARMl7MYR_ohrhk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345793707739-gct3d9k9fsqq0k6dl3s6sajgip8tbba0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
